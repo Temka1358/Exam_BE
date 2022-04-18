@@ -8,6 +8,7 @@ const TodoSchema = new Schema({
     },
     createdDate: {
         type: Date,
+        default: Date.now(),
         required: [true, "Enter create date!"]
     },
     isDone:{
