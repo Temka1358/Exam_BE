@@ -18,6 +18,9 @@
   "homepage": "https://github.com/Temka1358/Exam_BE#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.3"
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.0"
   }
 }
